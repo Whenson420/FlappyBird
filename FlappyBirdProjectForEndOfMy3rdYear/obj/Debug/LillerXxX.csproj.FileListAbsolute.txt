@@ -1,0 +1,13 @@
+F:\oop 3.i\LillerXxX\bin\Debug\LillerXxX.exe.config
+F:\oop 3.i\LillerXxX\bin\Debug\LillerXxX.exe
+F:\oop 3.i\LillerXxX\bin\Debug\LillerXxX.pdb
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.csproj.AssemblyReference.cache
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.csproj.SuggestedBindingRedirects.cache
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.Form1.resources
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.Properties.Resources.resources
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.csproj.GenerateResource.cache
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.csproj.CoreCompileInputs.cache
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.exe
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.pdb
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.Jozsi.resources
+F:\oop 3.i\LillerXxX\obj\Debug\LillerXxX.Pong.resources
